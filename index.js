@@ -8,8 +8,8 @@ const routerErrorHandler = require('./routes/errorhandler.router')
 
 
 const app = express()
-const PORT = process.env.PORT || 8000
-
+const PORT = process.env.PORT || 8000 
+// manana no hay clases asdasd
 /*
 Cors Settings
 */
